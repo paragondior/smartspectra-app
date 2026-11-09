@@ -1,0 +1,12 @@
+{
+  "name": "smartspectra-desktop-app",
+  "version": "1.0.0",
+  "description": "SmartSpectra Human-Sensing Desktop App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^28.0.0"
+  }
+}
